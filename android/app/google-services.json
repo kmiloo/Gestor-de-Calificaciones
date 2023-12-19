@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171506720846",
+    "project_id": "gestor-de-calificaciones",
+    "storage_bucket": "gestor-de-calificaciones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171506720846:android:ae1aa7b4728bc21b9de31f",
+        "android_client_info": {
+          "package_name": "com.example.gestor_calificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWpDBWyAxnAmuchGvSHVxsM4gifcI9g3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
